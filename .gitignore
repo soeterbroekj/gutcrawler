@@ -1,2 +1,10 @@
-venv
+.DS_Store
 *.pyc
+*.pyo
+venv
+venv*
+dist
+*.egg
+*.egg-info
+_mailinglist
+.tox
