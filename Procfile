@@ -1,1 +1,1 @@
-web: gunicorn webcrawler:app
+web: gunicorn gutcrawler:app
